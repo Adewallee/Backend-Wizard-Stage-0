@@ -74,4 +74,8 @@ This project is a simple RESTful API built with Node.js and Express for the Back
 
 ---
 
+<<<<<<< HEAD
 Feel free to fork and improve this project. Happy coding!
+=======
+Feel free to fork and improve this project. Happy coding!
+>>>>>>> de40b66 (Added a README file)
